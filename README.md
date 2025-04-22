@@ -1,6 +1,7 @@
 # Telecom-Customer-Churn-Analysis
 
 **Executive Summary:**
+
 This project focuses on identifying key drivers of customer churn using a dataset of 7,043 customers from a telecom company. The primary objective was to analyze customer behavior, understand churn patterns, and provide actionable insights to enhance customer retention.
 
 **Key Insights:**
